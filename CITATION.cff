@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "erdos412-sigma: computations for Erdős Problem #412 on the iterated sum of divisors"
+version: 1.0.0
+date-released: 2026-11-20
+license: MIT
+repository-code: "https://github.com/mirzavaziri/erdos412-sigma"
+authors:
+  - family-names: Mirzavaziri
+    given-names: Madjid
+    affiliation: "Ferdowsi University of Mashhad"
+  - family-names: Yaqubi
+    given-names: Daniel
+    affiliation: "University of Torbat-e Jam"
+keywords: [sum of divisors, iteration, multiplicative functions, Erdős problems, Mersenne primes]
