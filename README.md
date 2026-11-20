@@ -1,5 +1,7 @@
 # erdos412-sigma
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24389489.svg)](https://doi.org/10.5281/zenodo.24389489)
+
 Code for the paper
 
 > M. Mirzavaziri and D. Yaqubi, *Funnels, descent and mixing: on a problem of Erdős on the iterated sum of divisors*.

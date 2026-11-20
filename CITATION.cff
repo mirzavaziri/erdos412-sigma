@@ -4,6 +4,7 @@ title: "erdos412-sigma: computations for Erdős Problem #412 on the iterated sum
 version: 1.0.0
 date-released: 2026-11-20
 license: MIT
+doi: 10.5281/zenodo.24389489
 repository-code: "https://github.com/mirzavaziri/erdos412-sigma"
 authors:
   - family-names: Mirzavaziri
